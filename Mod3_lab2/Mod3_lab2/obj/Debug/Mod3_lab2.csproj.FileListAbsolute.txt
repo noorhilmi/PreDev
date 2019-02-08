@@ -1,0 +1,7 @@
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\bin\Debug\Mod3_lab2.exe.config
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\bin\Debug\Mod3_lab2.exe
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\bin\Debug\Mod3_lab2.pdb
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\obj\Debug\Mod3_lab2.csprojAssemblyReference.cache
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\obj\Debug\Mod3_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\obj\Debug\Mod3_lab2.exe
+C:\Users\Noor Hilmi\source\repos\Mod3_lab2\Mod3_lab2\obj\Debug\Mod3_lab2.pdb
